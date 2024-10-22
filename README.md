@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Aura
-- 👀 I’m interested in Python,Java,C++,C#,SQL
+- 👀 I’m interested in Python,Java,C++,C#,SQL,Kotlin,GO
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
